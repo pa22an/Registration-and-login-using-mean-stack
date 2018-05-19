@@ -4,4 +4,8 @@ After installing nodejs, mongodb, express and angular,
 
 Run express-generator(using command: npm install -g express-generator) in the specfic location in cmd and it will automatically generate the some file
 
-Regarding our specfication, we can edit the files in it
+Regarding our specfication, we can add dependences in package.json file and we can edit the files.
+For installing the dependences, command : npm install. After installing, we wil get a folder node_modules
+
+For running server side, command : mongod
+For running client side, command : npm start
