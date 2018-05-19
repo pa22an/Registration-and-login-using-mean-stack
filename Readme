@@ -2,6 +2,6 @@
 
 After installing nodejs, mongodb, express and angular,
 
-Run express-generator(using command: npm install -g express-generator) in the specfic folder and it will automatically generate the some file
+Run express-generator(using command: npm install -g express-generator) in the specfic location in cmd and it will automatically generate the some file
 
-Regarding our specfication, we can edit it
+Regarding our specfication, we can edit the files in it
